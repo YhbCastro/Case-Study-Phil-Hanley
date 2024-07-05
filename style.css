@@ -1,0 +1,413 @@
+.desktop {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    width: 100%;
+}
+
+.desktop .div {
+    background-color: white;
+    overflow: hidden;
+    width: 1440px;
+    height: 6300px;
+    position: relative;
+}
+
+.desktop .overlap {
+    height: 387px;
+    top: 0;
+    left: 0;
+    background-color: white;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-color: plum;
+    position: absolute;
+    width: 1440;
+}
+
+.desktop .flexcontainer {
+    gap: 15px;
+    width: 200px;
+    height: 120px;
+    top: 149px;
+    left:615px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+}
+
+.desktop .text {
+    position: relative;
+    align-self: stretch;
+    font-family: 'Varela Round';
+    font-weight: 100;
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper {
+    font-family: 'Varela Round';
+    font-weight: 100;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.desktop .text-wrapper-2 {
+    position: absolute;
+    top: 48px;
+    left: 534px;
+    font-family: 'Varela Round';
+    font-weight: 500;
+    color: black;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .overlap-group {
+    height: 681px;
+    top: 387px;
+    left: 0;
+    background-color: white;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-color: plum;
+    position: absolute;
+    width: 1440px;
+}
+
+.desktop .rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 387px;
+    top: 0;
+    left: 0;
+    background-color: white;
+}
+
+.desktop .flexcontainer-2 {
+    gap: 1.5px;
+    width: 508px;
+    height: 498px;
+    top: 183px;
+    left: 836px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+}
+
+.desktop .span-wrapper {
+    font-size: 24px;
+    position: relative;
+    align-self: stretch;
+    font-family: 'Varela Round';
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .span {
+    font-family: 'Varela Round';
+    font-weight: 300;
+    color: black;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.desktop .head {
+    position: absolute;
+    top: -10px;
+    left: 625px;
+    font-family: 'Varela Round';
+    font-weight: 500;
+    color: #000000;
+    font-size: 44px;
+    text-align: center;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.desktop .p {
+    position: absolute;
+    width: 508px;
+    top: 274px;
+    left: 116px;
+    font-family: 'Varela Round';
+    font-weight: 300;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+    position: absolute;
+    top: 44px;
+    left: 1037px;
+    font-family: 'Varela Round';
+    font-weight: 500;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+    position: absolute;
+    top: 44px;
+    left: 262px;
+    font-family: 'Varela Round';
+    font-weight: 500;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .overlap-group-2 {
+    height: 1152px;
+    top: 1114px;
+    left: -2px;
+    background-color: white;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-color: plum;
+    position: absolute;
+    width: 1440px;
+}
+
+.desktop .text-wrapper-5 {
+    position: absolute;
+    top: 50px;
+    left: 568px;
+    font-family: 'Varela Round';
+    font-weight: 500;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .old-website {
+    position: absolute;
+    width: 450px;
+    height: 973px;
+    top: 104px;
+    left: 228px;
+    background-color: white;
+}
+
+.desktop .flexcontainer-3 {
+    gap: 1.5px;
+    width: 454px;
+    height: 455px;
+    top: 300px;
+    left: 801px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+}
+
+.desktop .text-2 {
+    font-size: 32px;
+    position: relative;
+    align-self: stretch;
+    font-family: 'Varela Round';
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+    font-family: 'Varela Round';
+    font-weight: 400;
+    color: black;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.desktop .overlap-2 {
+    height: 1294px;
+    top: 2266px;
+    left: -1px;
+    background-color: white;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-color: plum;
+    position: absolute;
+    width: 1440px;
+}
+
+.desktop .text-wrapper-7 {
+    position: absolute;
+    top: 52px;
+    left: 572px;
+    font-family: 'Varela Round';
+    font-weight: 500;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .figma-prototype {
+    position: absolute;
+    width: 500px;
+    height: 847px;
+    top: 286px;
+    left: 135px;
+    background-color: white;
+}
+
+.desktop .flexcontainer-4 {
+    gap: 1.5px;
+    width: 519px;
+    height: 621px;
+    top: 424px;
+    left: 761px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+}
+
+.desktop .overlap-3 {
+    height: 828px;
+    top: 3560px;
+    left: -2px;
+    background-color: white;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-color: plum;
+    position: absolute;
+    width: 1440px;
+}
+
+.desktop .text-wrapper-8 {
+    position: absolute;
+    top: 49px;
+    left: 459px;
+    font-family: 'Varela Round';
+    font-weight: 500;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .flexcontainer-5 {
+    gap: 10px;
+    width: 1021px;
+    height: 434px;
+    top: 200px;
+    left: 181px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+}
+
+.desktop .overlap-4 {
+    height: 1118px;
+    top: 4400px;
+    left: 0;
+    background-color: white;
+    position: absolute;
+    width: 1440px;
+}
+
+.desktop .text-wrapper-9 {
+    position: absolute;
+    top: 54px;
+    left: 615px;
+    font-family: 'Varela Round';
+    font-weight: 500;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-10 {
+    position: absolute;
+    width: 564px;
+    top: 366px;
+    left: 749px;
+    font-family: 'Varela Round';
+    font-weight: 400;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .final-website {
+    position: absolute;
+    width: 400px;
+    height: 865px;
+    top: 154px;
+    left: 230px;
+    background-color: white;
+}
+
+.desktop .overlap-5 {
+    height: 650px;
+    top: 5506px;
+    left: -1px;
+    background-color: white;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-color: plum;
+    position: absolute;
+    width: 1440px;
+}
+
+.desktop .text-wrapper-11 {
+    position: absolute;
+    top: 49px;
+    left: 622px;
+    font-family: 'Varela Round';
+    font-weight: 500;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .flexcontainer-6 {
+    gap: 10px;
+    width: 1085px;
+    height: 472px;
+    top: 162px;
+    left: 173px;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute
+}
+
